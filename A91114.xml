@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pro-quiritatio parainetike, or, A petition to the people: for a Christian and unbloudy decision of cases of conscience, in the point of obedience unto the deputed of the Lord; as disturb the peace, and threaten the ruine of this church and state. Humbly directed unto the whole-one English and Welsh nation.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91114</idno><idno type="EEBO-CITATION">99873232</idno>
+  <idno type="VID">158255</idno>
+  <idno type="EEBO-PROQUEST">2240953339</idno>
+  
+            <idno type="STC">Wing P3803</idno>
+            <idno type="STC">Thomason E240_1</idno>
+            <idno type="STC">ESTC R8047</idno>
+            <idno type="PROQUEST">99873232</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873232e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158255)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E240[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pro-quiritatio parainetike, or, A petition to the people: for a Christian and unbloudy decision of cases of conscience, in the point of obedience unto the deputed of the Lord; as disturb the peace, and threaten the ruine of this church and state. Humbly directed unto the whole-one English and Welsh nation.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second word of title transliterated from Greek.</note>
+                  <note>In this edition, line 4 of title ends: to.</note>
+                  <note>Annotation on Thomason copy: "Sep: 1642. this was scattered up and down London. ye 14: &amp; 15 &amp; suppressed by an order 16th 7bre [i.e. September] vide a long diurnall".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conscience --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158255:1"/>
+            <p>PRO-QVIRITATIO ΠΑΡΑΙΝΕΤΙΚΗ <hi>OR,</hi> A PETITION TO The People: For a Christian and unbloudy Decision of Cases of Conscience, in the point of Obedience unto the Deputed of the Lord; as disturb the Peace, and threaten the Ruine of this Church and State.</p>
+            <p>Humbly directed unto the whole One <hi>English</hi> and <hi>Welsh</hi> Nation.</p>
+            <q>
+               <bibl>REVELATION. 13.9.</bibl>
+               <p>If any man have an eare, let him heare. He that leadeth into Captivity, shall goe into Captivity, He that killeth with the Sword, must be killed with the Sword. Here is the Patience, and the Faith of the Saints.</p>
+            </q>
+            <q xml:lang="lat">
+               <l>—Omnibus, hostes</l>
+               <l>Reddite nos Populis, civile avertite bellum,</l>
+               <bibl>Lucan.</bibl>
+            </q>
+            <q xml:lang="lat">
+               <p>Nec ullum satis validum Imperium erat, coercendis Seditionibus Populi, flagitia hominum, vt Ceremonias Deum protegentis,</p>
+               <bibl>Tac: An: Lib. 3.</bibl>
+            </q>
+            <p>Printed for <hi>Richard Royston. Anno Dom.</hi> 1642.</p>
+            <p>
+               <add>Sep: 1642 this was <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ratt<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed up and down London y<seg rend="sup">e</seg> 14: &amp; 15 &amp; suppressed by an order 16<seg rend="sup">th</seg> 9<seg rend="sup">bre</seg>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a L<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Diurnall</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158255:2"/>
+            <head>TO ALL TRVLY CHRISTIAN ENGLISH AND VVELSH, <hi>Truth And Peace.</hi> From the Author of both, the <hi>Lord Iesus.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>DEare Countrymen,</hi> and no lesse <hi>Deare</hi> (because most faithfull) <hi>Britaines.</hi>)</salute>
+            </opener>
+            <p>There is no want of <hi>misery,</hi> where <hi>sinne</hi> abounds. There is no reconciling com<g ref="char:EOLhyphen"/>fort to us, where <hi>Division</hi> is the <hi>Sinne.</hi> There is no <hi>Degree</hi> wanting unto the <hi>wretchednesse</hi> and <hi>sinfulnesse</hi> of the <hi>sinne</hi> of <hi>Division;</hi> where the <hi>Division</hi> is betweene the th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Head</hi> and the <hi>Members. There</hi> is no want of venome, in the temper and hight of the <hi>Degree;</hi> Where <hi>Christ</hi> and <hi>Religion</hi> are made the <hi>Dividers</hi> betweene the <hi>Head</hi> and the <hi>Body.</hi> It being most desperately, both scandalous and wicked; That <hi>Rebellion</hi> should be in <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion</hi> as a <hi>disease:</hi> much more that <hi>Religion</hi> should bee in <hi>Rebellion</hi> as an incen<g ref="char:EOLhyphen"/>diary.</p>
+            <p>So that both for the <hi>Species</hi> and the <hi>Gradus.</hi> The <hi>Kind,</hi> and the <hi>Degree</hi> of the <hi>kind,</hi> the calamity and the Sunne of the aimes are not unmatchable. Which the <hi>Attending discourse</hi> (I presume) will <hi>Demonstrate:</hi> And that there can be no <hi>Ʋnion</hi> with the <hi>Invi<g ref="char:EOLhyphen"/>sible H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad,</hi> the <hi>Lord Christ;</hi> when we divide our selves from those <hi>Visible Heads,</hi> whom the Lord hath stiled his <hi>Christs.</hi>
+            </p>
+            <p>
+               <hi>D<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nion</hi> (though but amongst equalls) being a thing that villifieth and nulleth, the most glorious gifts and graces of the <hi>Holy Ghost:</hi> as the <hi>Apostle sheweth,</hi> 1 <hi>Cor.</hi> 13. much more <hi>Disunion</hi> with those whom God hath set in his place over us.</p>
+            <p>
+               <hi>It</hi> was prudently observed by a knowing Man of this Age, that the violations in this kind, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re worse suff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red than corruption of Manners. Inasmuch (saith he) as <hi>Soluti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> of <hi>Continuity</hi> (to wit the breaking of a bone,<note place="margin">St. Albons <gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ayes.</note> or the cutting off of a member) is more dangerous than a corrupt humour: And yet the <hi>Arme</hi> may be cut off, and the man may live. But the <hi>Solution</hi> of the <hi>Continuity</hi> between the <hi>Head</hi> and the <hi>Members</hi> is the destruction of the whole.</p>
+            <p>
+               <hi>In the bowels of C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rist Iesus,</hi> you are besought by your most humble <hi>Petitioner</hi> (whose amazed bleeding soule presumeth not, that it can finde language sufficient to bewayle the misery and guilt wee are involved in.) <hi>That</hi> you would bee pleased, as one <hi>Man</hi> from Our <hi>Dan</hi> to <hi>Bersheba;</hi> from Saint <hi>Michaells Mount</hi> to <hi>Barwicke;</hi>
+               <pb n="3" facs="tcp:158255:2"/> from the <hi>Isle of Anglesey</hi> to <hi>Norwich;</hi> which Sober, Humble, Modest Expression (as becommeth those who are redeemed by the Blood of the <hi>Lambe Christ Iesus</hi>) to <hi>Petition</hi> both his most <hi>Sacred Majestie</hi> and his most <hi>Honourable Great Councell;</hi> That the <hi>Determinations</hi> of the <hi>Great Law-giver,</hi> may both by the one, and the other heedefully bee attended.<note n="*" place="margin">Acts 25.16.</note> And that to this end <hi>A nationall Synod</hi> (such as we may justifie before God and man) may with all convenient speed be Assembled, for an <hi>Holy Decision</hi> of such Cases of Conscience, as more concerne our poore Soules,<note n="d" place="margin">D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fleo equidem filiū meū, semper{que} deflebo sed neque Reum pro<g ref="char:EOLunhyphen"/>hibeo quo minus cuncta pro<g ref="char:EOLunhyphen"/> ferat qui<g ref="char:EOLhyphen"/>bus inno<g ref="char:EOLhyphen"/>centia eiu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sublevari; aut siqua fuit iniqui<g ref="char:EOLhyphen"/>tas Ger<g ref="char:EOLhyphen"/>manici co<g ref="char:EOLunhyphen"/>árgui pos<g ref="char:EOLhyphen"/>sie; Vos{que} Oro ne quia dolo<g ref="char:EOLunhyphen"/>ri meo c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>usa con<g ref="char:EOLunhyphen"/>nexa est, obiecta crimina pro appro<g ref="char:EOLunhyphen"/>batis acci<g ref="char:EOLhyphen"/>piatis▪ Si quos pro<g ref="char:EOLhyphen"/>pinquus sanguis <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut fides sua Pationos dedit, quantum quis{que} elo<g ref="char:EOLhyphen"/>quentia &amp; cura valet Iuvate pe<g ref="char:EOLhyphen"/>ricilitan<g ref="char:EOLhyphen"/>tem &amp;c▪ Tiberius apud▪ <bibl>Taci. An. 3.</bibl>
+               </note> than the preservation of our momentary lives and temporarie fortunes; from the threatning outrage of fire and sword.</p>
+            <p>Tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the meane time (untill the necessities of State may give way to such an Assembly) it may bee lawfull (as a preparative thereunto) to publish such Christi<g ref="char:EOLhyphen"/>an and grave Tractates or Arguments (without the imputation of Enmity to the State) a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may tend to the <hi>Discovery</hi> of <hi>Truth</hi> (the onely <hi>Foundation</hi> of <hi>Godly long-lived Peace</hi>) and the snatching of such (if any such there be) out of the fire; whom zeale not according to knowledg hath diverted into dangerous By-paths. And that, In<g ref="char:EOLhyphen"/>asmuch as none may reape more benefit by them, than they who (as yet) are most direct against them, Especially if the <hi>Divisions</hi> of these daies against Our <hi>Moses</hi> and <hi>Aron</hi> shall prove of that High nature, as to be the very sinne of <hi>Corah, Dathen</hi> and <hi>Abiram</hi> Especially, if the intrusion into sacred place and office, of those whom the <hi>Church</hi> hath not sent; be the very wickednesse of the <hi>Priests</hi> of <hi>Ieroboam</hi> the son of <hi>Nebat,</hi> who made <hi>Israel</hi> to sin.</p>
+            <p>They are <hi>Principles</hi> which no man can be ignorant of. <hi>That</hi> He that judgeth <hi>Corah</hi> and <hi>Ieroboam</hi> is the same unchangeable <hi>Lord for ever and ever. That</hi> his punish<g ref="char:EOLhyphen"/>ments if deferred, are encreased. <hi>That Christianity</hi> shall smart sorer than <hi>Judaisme</hi> for offences of this condition.</p>
+            <p>
+               <hi>Vouchsafe</hi> then <hi>Christian English and Welsh;</hi> In this great Cause of the <hi>Lord,</hi> In this desperate praecipice of the <hi>People</hi> of the <hi>Lord:</hi> In this double danger of the <hi>Priests</hi> of the <hi>Lord</hi> (since herein, even for them to bee silent, is to be traiterous) un<g ref="char:EOLhyphen"/>animously to bese ch those who are (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s yet) on the other hand engaged; to permit (since Pagan justice hath <hi>(a)</hi> constantly afforded it) nay, to encourage (since <hi>Pagan bloud thirsty (b) Tyrants;</hi> and that in their owne cause, have done so much) th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affirm<g ref="char:EOLhyphen"/>ing Party to spare noe paines; To leave nothing unsaid, in this point of so great con<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnment: That <hi>inke,</hi> rather then <hi>Bloud</hi> may be spilt; That <hi>Paper</hi> rather than <hi>Soules</hi> may perish. That the undertakers may have publike thankes for their good wills, should (we be so happy that) they faile of their endeavou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; At least wise that they may have the <hi>Liberty</hi> of the <hi>Subject,</hi> to plead the Cause of the <hi>Lord,</hi> and the <hi>Lords Annointed.</hi> And likewise, that if any man in this Controversie shall pub<g ref="char:EOLhyphen"/>lish any thing by way of Reply; He be enjoyned to Printe with his Answer the whole tract he intended to ref<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te. That upright dealing may be had, and the world may readi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y compare the moments of both. And that <hi>Christian</hi> abearance for <hi>Truth</hi> not <hi>Ʋectory</hi> be commended, and the violators thereof, may be severely punished.</p>
+            <p>That whereas the supreme <hi>Law</hi> of <hi>God</hi> ought to command and regula<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e all the <hi>Lawes</hi> of <hi>man:</hi> And what Priviledges in the <hi>New Testament</hi> are acknowledged due to <hi>Heathen</hi> P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inces: and what Prerogatives the <hi>Spirit of God</hi> hath in the <hi>Old Testament,</hi> warranted unto the <hi>Iewish Kings:</hi> And what the universall <hi>Law</hi> of <hi>Nature</hi> (as old as mankinde) hath established upon them all; appertaine <hi>all of them</hi>
+               <pb facs="tcp:158255:3"/> by unquestionable right unto his most <hi>Sacred Majesty.</hi> And whereas <hi>his Majesty</hi> (out of his most incomparable goodnesse) insisteth not upon these; but vouchsafeth to accept of that moyty, which the undoubted <hi>Lawes</hi> of this <hi>Land</hi> (which how they were obtained, the <hi>English Historian</hi> knoweth) afford unto him. That universall thankes (and those not verball but reall) may be forthwith (throughout this whole <hi>Kingdome</hi> and <hi>Principality</hi> solemnly tendered to him and <hi>God Almighty</hi> for him. Who might justly, we may truly say it, if wee look<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> home) in stead of this <hi>Cedar,</hi> have given us a <hi>bramble;</hi> n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to scratch and te<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e our flesh but to set us all on fire. Since we have read that He h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Authority to give us a King in his displeasure; but never <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead our authority to di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obey him at our pleasure. Oh then let the hide<g ref="char:EOLhyphen"/>ousnesse of our ingratitude unto <hi>God</hi> and <hi>Him</hi> be considered; let due compensation be made; and let us not in stead thereof so Array our selves against the <hi>Prerogative</hi> of <hi>God,</hi> as if we could cast his yoak off. So against the <hi>Prerogative</hi> of his <hi>Anointed,</hi> as if wee have already done it; which we manifest in our desires of lessening the <hi>Princes</hi> power, as not daring to trust <hi>God</hi> (upon his asseveration) with regulating the heart of the <hi>King;</hi> as if we could doe it better than he hath, either in his deeds performed, or in his Word directed: Casting all the fault from our selves, and in v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry deed fastning it upon Him; who is able to account for the <hi>Acts</hi> of his <hi>Lieve<g ref="char:EOLhyphen"/>tenants,</hi> but unwilling to be thus reproacht by sinners.</p>
+            <p>That for the honour due unto the Law of God, and in respect of the interest which every man created after the Image of God, hath in the Lawes of God and Nature: That no deliberation be thought too long (in case either of bloud, or estate.) Con<g ref="char:EOLhyphen"/>cerning those who either in Church or Cōmon-wealth (as is pretended against the particular <hi>Lawes</hi> of this Land) have asserted unto His <hi>Majesty</hi> those Honours and emoluments, which the institutes of <hi>God</hi> and <hi>Nature</hi> have invested him with, untill such time as the Cause of God be fully pleaded.</p>
+            <p>That we do not suffer our selves to be out-stript by our Brethren of the <hi>Scottish-Nation</hi> in the <hi>Christian</hi> civility of giving credit unto <hi>His Sacred Majesties Protesta<g ref="char:EOLhyphen"/>tions</hi> (too many too high, too often repeated to be forgotten or neglected by him that but conceiteth an He<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven or Hell. Concerning the uprightnesse of his most <hi>Blessed soule;</hi> for his resolution▪ for perseverance in, and maintenance of the <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> Established.</p>
+            <p>
+               <hi>That</hi> for the future, the most Honourable Court of Parliament be humbly Pe<g ref="char:EOLhyphen"/>titioned not to conceive that his Majestie so little respecteth either his conscience or his credit; as to forfeit with <hi>God</hi> his <hi>Royall word;</hi> and with man that faire <hi>Repute</hi> which his Integrity, no lesse than his <hi>Patience</hi> and <hi>Paines</hi> have spread as farre as his Name is read or heard of; By making offensive warre upon his Parliament; further than the vindication of that part of Soveraignty which is so <hi>Gods,</hi> that without pro<g ref="char:EOLhyphen"/>phannesse he cannot quit, and the prosecution of those sinnes which he must represse or suffer for, shall necessitate him. That chargeable Jealousies being put away: And the power of the sword being acknowledged to be where <hi>God</hi> hath left it; not one<g ref="char:EOLhyphen"/>ly this exhausted <hi>kingdome</hi> may find some refreshment from its importable taxes; But also distressed <hi>Ireland</hi> may be relieved with part of that which our costly dif<g ref="char:EOLhyphen"/>ference, bestoweth on the purchase of the wrath of God, and the dishonour of our holy Profession.</p>
+            <p>
+               <hi>That</hi> for the avoyding of the shame of our <hi>Religion, Age,</hi> and <hi>Nation,</hi> in for<g ref="char:EOLhyphen"/>raigne
+<pb facs="tcp:158255:3"/> parts and future times, it be publicky avowed, what <hi>Petitions</hi> have been by the <hi>Generality</hi> or <hi>major part</hi> of men throughout the severall <hi>Counties,</hi> directed unto the most High and Honorable Court of Parliament, and what have been by un<g ref="char:EOLhyphen"/>worthy practise (as being forged or extorted) preferred and published in the Com<g ref="char:EOLhyphen"/>mon name whereby the Parliament may seem to have been misinformed; as having bin possessed with the venerable name of the generality, there represented from a few over-busie malignants; in stead of the desires of the many <hi>Conscientious, Sober, Lear<g ref="char:EOLhyphen"/>ned, Generus Spirits;</hi> with whom God hath liberally blessed and honored the <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> left us by his <hi>Son:</hi> and derived unto us by the <hi>Holy Apostles</hi> and Fathers of the ancient Primitive times: And that the offenders shame if not punishment may be called for by the publick voice.</p>
+            <p>
+               <hi>That</hi> not onely in obedience unto the <hi>God of peace,</hi> but also for the preventing of the like or worse hereafter; Those <hi>Routers</hi> and <hi>Pamphleteers</hi> may be sought out and duly punished, who with their licentious carriages have not onely, wearied the <hi>Righteous Soul</hi> of him whom <hi>God</hi> hath made and set so like and neer unto himselfe; B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with their outrages have driven him from his Parliament, and his glorious City of <hi>London,</hi> to the great impeachment, if not undoing thereof.</p>
+            <p>
+               <hi>That</hi> you will be pleased from out of all parts to supply this scantling with what either the riches of your charitable wisdom, or the straights of your Christian suffe<g ref="char:EOLhyphen"/>rings shall suggest unto you; befitting the consideration of his <hi>Majesty</hi> and his <hi>great Councell,</hi> either concerning the great and generall want of <hi>Ecclesiasticall Discipline,</hi> whereby offences multiply, and offenders grow shamelesse; since the impeachment of the power of <hi>Excommunication:</hi> which being established from on high; no men,<note place="margin">Mat. 18.17, 18.</note> or times might or have deprived the Church of, nor can they make frustrate the sen<g ref="char:EOLhyphen"/>tence thereof. Or concerning the Restitution of the Churches Governours as of old? whereby the growth of <hi>Schismes</hi> and <hi>Sects</hi> might be restrained. Or concerning the now despised <hi>House</hi> and <hi>Service of God;</hi> wherein and whereby we chiefly Hallow his Name as it is done in Heaven. That part of his worship (now in great danger) being the most <hi>Angelicall Office,</hi> which is or can by man be performed unto the <hi>God</hi> of Heaven; untill we come unto him in his <hi>Heavenly Temple;</hi> &amp; into the same <hi>Quire</hi> with those blessed Spirits. At least-wise it were to be wished, since it is de<g ref="char:EOLhyphen"/>dicated unto <hi>God</hi> and ever since that, by our <hi>Godly Predecessors,</hi> it hath been hewed out of the Rock of <hi>Primitive Devotions,</hi> have stood faire and impregnable; as ne<g ref="char:EOLhyphen"/>ver yet having bin so much as soyled by one Argument which a Catechist could not reach and wipe off: That the Mound which man hath set about it might be upheld and mayntained in the execution of the <hi>Statute</hi> Printed before it. And it is more than need that the annexed prudent <hi>Proclamation</hi> of our late (and for ever to be re<g ref="char:EOLhyphen"/>nowmed) <hi>Solomon, King</hi> James <hi>of glorious memory,</hi> were throughly pondered and intended. That in our <hi>Zijon God</hi> being religiously served by us; Hee out of His, might fatherly blesse us: and raise us up, able men, restorers of this breach.</p>
+            <p>When <hi>popular Absalom</hi> had drawn the whole Kingdom against <hi>David</hi> (his god<g ref="char:EOLhyphen"/>ly indulgent Father) one <hi>Amasa</hi> was able to do thus much: <hi>For he bowed the hearts of all the men of Iudah</hi> (where bowing indeed ought to be) <hi>as the heart of one man,</hi>
+               <note place="margin">2 Sam. 19.14▪</note>
+               <hi>and they sent this word unto the King, Return thou▪ and all thy servants; So the King returned and came to</hi> Jordan: <hi>And</hi> Judah (even <hi>Shimei</hi> himselfe whom <hi>David</hi> par<g ref="char:EOLhyphen"/>doned) <hi>came to meet the King, and to conduct him over</hi> Jordan.</p>
+            <pb n="6" facs="tcp:158255:4"/>
+            <p>For such a day, let all hearts atd hands be lifeed up to god on high, unfeinedly and un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>essantly: which to do the petitioner will not faile▪</p>
+            <p>
+               <hi>Nor<lb/> To</hi> aduenture to the world such <hi>Demonstrative Arguments</hi> (for the assertion of the premisses) as he trusteth he hath received from the <hi>Oracles of God.</hi> And is not in this cause a fraid either to fall, or fall alone. But he had rather for <hi>Gods</hi> and other mens sakes <hi>fide publicâ dicer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> be for his zeale unto the publik good, publiquely protected, lest others seeing his sufferings (though the countrary fell out in the primi<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s (should be diverted from avowing <hi>Gods Truth</hi> unto the world But otherwise should he be universally deserted, he is resolved both with <hi>Godly modesty</hi> and <hi>Christian fortitude,</hi> to come o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of his too safe obscurity, as having read▪ a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d relished that of <hi>Hester, If I perish I perish.</hi> And (meane though be in the eyes of the world, and of himselfe) as aspi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing (through Christian fervour) to come as neere as his poore frailties,<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 16</note> can by Gods Spirit and is endeavous be drawne unto that high pitch of Sainst <hi>Paules most ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y prodiga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity.</hi>
+            </p>
+            <p>
+               <note place="margin">Ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>I could wish that J were separated from Christ, for my Brethren, &amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>Concerning the <hi>Synod,</hi> he humbly presenteth and submitteth his ensuing desires</head>
+               <p>
+                  <hi>Whereas there must he a resurrection of words as well as for men, and the most eminent things shall have the most eminent Judgement. And whereas an accompt is due both unto the present and succeeding World, of actions of this consequence.</hi>
+               </p>
+               <p>
+                  <hi>THat therefore,</hi> in the first place, God may with all solemnity and sincerity of Publique and private, Internall and externall humiliations be attoned unto us And man may be abjured to lay downe all acts and thoughts, which he shall feare to meet at the last day.</p>
+               <p>That the Election may be free. The Convention and prosecution may be secured from Canvasses, fraud, and violence. But that it may be convened and transacted (as neere as may bee) according to the godly Rules and Christian examples of the <hi>se<g ref="char:EOLhyphen"/>ven Primitive Generall Councels;</hi> at least wise of the <hi>foure first,</hi> ever sacred by the universall consent of whole Christendome; and particular<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to us by particular <hi>Sta<g ref="char:EOLhyphen"/>tutes.</hi> And that it be not like unto that Popish Councell of Trent, which had Interlo<g ref="char:EOLhyphen"/>pers sent in, when suff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ages were wanting, for any thing that was aymed at, and which was g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nerally either over awed with terrors, or over ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lanced with Magisteriall Mandat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, sent from <hi>Rome,</hi> to the <hi>shame</hi> of their <hi>Religion,</hi> and the <hi>Disport</hi> of the unengaged <hi>World.</hi>
+               </p>
+               <p>Tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at length to sa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isfie the impetuous clamours and many chalengers of our <hi>Ro<g ref="char:EOLhyphen"/>mish Abversaries</hi> amassed together in their <hi>Protestants Plea</hi> Printed 1621. Safe conduct <hi>Fide publiâ</hi> not like unto that of the Popish Counceell of <hi>Constance,</hi> but such as bes<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emeth the honor of our Christian Religion) may be openly proclaimed, and unviolably observed; for, and towards all sorts of Disputants▪ and that all their Names and Arguments. to a word may be entred into the publique Acts; that the World (so long as it shall endure) may see not only what was done, but why it was done.</p>
+               <pb n="7" facs="tcp:158255:4"/>
+               <p>That not so much to satisfie our <hi>Romish</hi> Churches; as for its owne sake, The <hi>Synod</hi> may bee held in one of our <hi>Ʋniversities:</hi> that it may not onely make use of the <hi>Reverend dead</hi> (which are the best and most impartiall <hi>Iudges) Councellours, and witnesses;</hi> but also that it may have the benefit of the <hi>Ability, Activity, Strength,</hi> and <hi>labours</hi> of young men, which in any other place it would want.</p>
+               <p>That to the intent the <hi>Synod</hi> may proceed with the great <hi>Authority</hi> and <hi>Clearnesse:</hi> It may bee desired to call to its assistance the professors of the <hi>Holy tongue</hi> of both <hi>Ʋni<g ref="char:EOLhyphen"/>versities,</hi> and others of knowne abilities from other <hi>Collegiate places</hi> and elsewhere. As also the professors of the <hi>Greeke tongue:</hi> In which languages the <hi>Spirit of God</hi> indited both the <hi>Old and New Testament,</hi> (the most unpartiall Judge of controversies) and in which are wrapped up, diverse <hi>mysteries</hi> which unlearned men are uncapable of. And that it may end with greater <hi>Expedition</hi> and <hi>approbation:</hi> there may out of each Shi e of <hi>England</hi> and <hi>Wales,</hi> be chosen unto <hi>Assessors,</hi> of the best, versed in the languages, Fathers and <hi>Ecclesiasticall story;</hi> who may not onely by entercourse of Letters employ, and make use of the Abilities, of such worthy men; who for the discharge of their places, must be left in their Counties; but also, bee at hand to give an account unto the <hi>Synod,</hi> both of the <hi>Desires</hi> and <hi>Distempers</hi> of the same. And further (as occasion shall requi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e) may be ready to prepare for, and assist in the solemne disputations before the <hi>Synod.</hi>
+               </p>
+               <p>That first, <hi>Authority</hi> may be established, to reckon with offenders; And then offences debated: And this according to the prescript of the <hi>great Law-giver,</hi> who in the <hi>Epito<g ref="char:EOLhyphen"/>me</hi> of the <hi>Law</hi> of <hi>Nature;</hi> In the first <hi>Table,</hi> first enacted his own <hi>Dominion,</hi> And then Thou shalt not commit <hi>Idolatry,</hi> Thou shalt not commit <hi>Sacriledge;</hi> In the <hi>Second;</hi> first, <hi>Honour thy Father and Mother;</hi> and then, Thou shalt not <hi>kill, &amp;c.</hi> To teach us that <hi>Obedience</hi> is to be preferred before life and all its Emoluments; And that they are the worst of men, who are the most refractory to <hi>Governours.</hi>
+               </p>
+               <p>
+                  <hi>And that therefore.</hi>
+               </p>
+               <p>
+                  <hi>Cases of publike Conscience,</hi> in the particular, (which the Councell of Trent did either dread and bogle at; else with fraud and might corrupt) may be first cleared.</p>
+               <p>
+                  <hi>Secondly,</hi> That points of particular abearance may be decreed.</p>
+               <p>
+                  <hi>Thirdly,</hi> That intestine Controversies may be decided.</p>
+               <p>
+                  <hi>Fourthly,</hi> That externall quarrells with the Adversaries on both hands may be discussed, and that the <hi>Synod</hi> be not dismissed, before this also be performed. That so the <hi>God of peace</hi> being served by us in <hi>Truth and Ʋnity;</hi> He may have <hi>Glory,</hi> we refreshment, and Poste<g ref="char:EOLhyphen"/>rity benefit, even from these our <hi>Distractions.</hi>
+               </p>
+               <p>
+                  <hi>Be pleased</hi> then to take due notice, of His <hi>most pious Majesties</hi> just complaint; <hi>That</hi> (in this great Cause, and in these distressed times (<hi>men want Conscience, Courage, or at least encouragement,</hi> for the discovery of the Truth; (without which, Peace is but a Ci<g ref="char:EOLhyphen"/>vill combination;) and unanimously to make way (what shall seeme best unto your un<g ref="char:EOLhyphen"/>naturall thoughts) for the display thereof. <hi>As sensible</hi> of the dishono<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>of our Christia<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Religion;</hi> which since it came downe from Heaven, never yet taught Rebellion against the worst of Heathenish Tyrants.</p>
+               <p>
+                  <hi>As considering.</hi>
+               </p>
+               <p>The Kingdome and Prerogative of <hi>God</hi> over you, who made you of nothing; hath power to take you in pieces, and resolve you into your former nothing; but will judge you according to that, which you have made your selves.</p>
+               <pb facs="tcp:158255:5"/>
+               <p>The generall favour of God Almighty towards mankinde; in that Hee doth not rule you by his immediate dreadfull might, nor teach you by His All-confounding voice: But (not only for the benefit, but also for the honour of the whole humane nature) hath advanced in his own most sacred place, of your own flesh and bloud; such as might more calmly execute his Dominion over you.</p>
+               <p>The particular favour which he hath vouchsafed unto this froward Nation, in giving us a King of such exemplary and <hi>Saint-like</hi> Vertues: who, if Hee had bin bad had in all probability bin better used.</p>
+               <p>The sinfulnesse of Rebellion, and Schisme.</p>
+               <p>The wofulnesse of Civill War, Pillage and Rapine.</p>
+               <p>The unhappy sedulity of a few Pragmaticals (wiser in their generation than the children of light) misled by an up-start Sect of Teachers, prevailing upon the cre<g ref="char:EOLhyphen"/>dulity of divers; and getting gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und through the mannerly silence of the best and most, abusing the Parliament with the specious pretext of generality▪ there repre<g ref="char:EOLhyphen"/>sented, and therefore esteemed most considerable.</p>
+               <p>The weight of the Dictates of God Almighty; which ought to have influence into all the consultations of humane Judicatories.</p>
+               <p>The necessities of the right informing of your understandings, and the disbur<g ref="char:EOLhyphen"/>thening of your Consciences in the point of obedience; the freeing you from the im<g ref="char:EOLhyphen"/>possible service of many, and the regulating of you for the homage of one Master; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he securing your Estates, which might be better employed, then for the maynte<g ref="char:EOLhyphen"/>nance of most accursedly sinfull Civill War.</p>
+               <p>The extraordinary blessings wherewith <hi>God</hi> hath a long time most eminently ho<g ref="char:EOLhyphen"/>noured the <hi>Doctrine, Diseipline, and worship of the Lord,</hi> established in this King<g ref="char:EOLhyphen"/>dome: The improvement whereof, you might well expect, under that man after his own Heart, whom He hath placed over us.</p>
+               <p>The unspeakable <hi>Glory</hi> of the Kingdome to be revealed; wherein (being freed from infirmity, sin, and all possibility thereof) you shall then be governed by his immediate presence in blisse; but to be enjoyed onely by the obedient Probationers thereof, in this World, ordered by his Providence, but administred by his Deputies.</p>
+               <closer>The accomplishment whereof, the Petitioner will sincerely pray for, with the utmost his poore abilities will promote; And with all lowlinesse supplicate for your <hi>AMEN.</hi>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
